@@ -1,0 +1,12 @@
+{
+  "item.kiranmod.tanzanite": "Tanzanite",
+
+  "block.kiranmod.tanzanite_block": "Block of Tanzanite",
+  "block.kiranmod.stripped_jacaranda_log": "Stripped Jacaranda Log",
+  "block.kiranmod.jacaranda_log": "Jacaranda Log",
+  "block.kiranmod.stripped_jacaranda_wood": "Stripped Jacaranda Wood",
+  "block.kiranmod.jacaranda_wood": "Jacaranda Wood",
+  "block.kiranmod.jacaranda_planks": "Jacaranda Planks",
+
+  "itemGroup.kiranmod.tanzanite": "Tanzanites"
+}
